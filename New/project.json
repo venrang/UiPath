@@ -2,7 +2,7 @@
   "name": "New",
   "projectId": "0faf8afb-51cd-4100-ae9c-fd7f682ee000",
   "description": "Blank Process",
-  "main": "Excel Operations.xaml",
+  "main": "Sample1.xaml",
   "dependencies": {
     "UiPath.CefSharpBundle.NetCore": "[1.9.0]",
     "UiPath.Citrix.Activities": "[1.3.0]",
@@ -86,6 +86,12 @@
     {
       "filePath": "Excel Operations.xaml",
       "uniqueId": "f21d8e60-38ce-442e-a8a4-7d9a3a11c2fc",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Sample1.xaml",
+      "uniqueId": "22c56fc7-cc6d-4704-bff0-ba8752cc8a0d",
       "input": [],
       "output": []
     }

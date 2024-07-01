@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3OK-StIntEaQKxuC5faaPQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.google.com/" CvTextArea="794, 295, 347, 121" CvTextArgument="Google" CvType="Text" DesignTimeRectangle="9, 257, 1920, 157" DesignTimeScaleFactor="1.25" FriendlyName="'.LS8OJ{display:flex;fle…'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div' idx='2' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' class='o3j99 LLD4me yr19Zb LS8OJ' tag='DIV' aaname='' check:text='.LS8OJ{display:flex;flex-direction:column;align-items:center}.k1zIA{height:100%;margin-top:auto}' /&gt;" Guid="b0edf9f4-b340-40e7-ade8-28a292e22980" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Google' /&gt;" SearchSteps="FuzzySelector, CV" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="077759a7aac56337f9da5c53ccccd3ab.png" xmlns="">05-SHEyomSkWMN5dS2NUktg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
